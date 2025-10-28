@@ -1,6 +1,6 @@
 # Rocky Linux 9 (Molecule)
 
-[![CI](https://github.com/leberkaslabs/molecule-rockylinux-9/actions/workflowsbuild-push-action.yml/badge.svg)](https://github.com/leberkaslabs/molecule-rockylinux-9/actions/workflowsbuild-push-action.yml)
+[![Container Release (Rocky Linux 9)](https://github.com/leberkaslabs/molecule-rockylinux-9/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/leberkaslabs/molecule-rockylinux-9/actions/workflows/build-push-action.yml)
 
 This repository is used to build Rockylinux 9 Docker images for Ansible [Molecule](https://ansible.readthedocs.io/projects/molecule/).
 
